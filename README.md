@@ -1,2 +1,2 @@
 # WeatherApplication
-my weather application
+Developed using Kotlin , XML , data domain and network layer.
